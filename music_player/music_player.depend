@@ -1,0 +1,882 @@
+# depslib dependency file v1.0
+1390097031 source:/home/pi/music_player/main.cpp
+	<iostream>
+	<wiringPi.h>
+	<errno.h>
+	"lcd/qdbmp.h"
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	<iostream>
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd.h"
+
+1390097031 .h"
+
+1175885980 source:/home/pi/music_player/lcd/qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1391620345 
+
+1375331572 /home/pi/music_player/lcd/qdbmp.h
+	<stdio.h>
+
+1175885980 source:/home/pi/samba/music_player/lcd/qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1390053644 /home/pi/samba/music_player/lcd/qdbmp.h
+	<stdio.h>
+	<stdio.h>
+
+1390046403 source:/home/pi/samba/music_player/button.c
+	<wiringPi.h>
+	<errno.h>
+	<stdio.h>
+
+1390046424 source:/home/pi/samba/music_player/encoder.c
+	<wiringPi.h>
+	<errno.h>
+	<stdio.h>
+
+1391619297 source:/home/pi/samba/music_player/main.cpp
+	<iostream>
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd/lcd.h"
+	<iostream>
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd/lcd.h"
+	<iostream>
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd/lcd.h"
+	<iostream>
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd.h"
+	<iostream>
+	<wiringPi.h>
+	"menue.h"
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd.h"
+
+1390498546 "
+
+1389642893 source:/home/pi/samba/music_player/read_meta.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1390047132 /home/pi/samba/music_player/include/button.h
+	<wiringPi.h>
+	<errno.h>
+	<stdio.h>
+
+1390047132 /home/pi/music_player/include/button.h
+	<wiringPi.h>
+	<errno.h>
+	<stdio.h>
+
+1390047099 /home/pi/music_player/include/encoder.h
+	<wiringPi.h>
+	<errno.h>
+	<stdio.h>
+
+1390047904 /home/pi/music_player/include/read_meta.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1390083659 source:/home/pi/music_player/src/button.c
+	<wiringPi.h>
+	"button.h"
+	<wiringPi.h>
+	"button.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1390083677 source:/home/pi/music_player/src/encoder.c
+	<wiringPi.h>
+	"encoder.h"
+	<wiringPi.h>
+	"encoder.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1390108436 source:/home/pi/music_player/src/read_meta.c
+	"read_meta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1390052999 /home/pi/music_player/inc/encoder.h
+
+1390050979 /home/pi/music_player/inc/button.h
+
+1390050316 /home/pi/music_player/inc/read_meta.h
+
+1390084835 source:/home/pi/samba/music_player/src/button.c
+	<wiringPi.h>
+	"button.h"
+	<wiringPi.h>
+	"button.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<wiringPi.h>
+	"button.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<wiringPi.h>
+	"button.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1390084836 source:/home/pi/samba/music_player/src/encoder.c
+	<wiringPi.h>
+	"encoder.h"
+	<wiringPi.h>
+	"encoder.h"
+	<wiringPi.h>
+	"encoder.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<wiringPi.h>
+	"encoder.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<wiringPi.h>
+	"encoder.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1391363850 /home/pi/samba/music_player/inc/button.h
+
+1391363851 /home/pi/samba/music_player/inc/encoder.h
+
+1391546872 /home/pi/samba/music_player/inc/read_meta.h
+
+1391617200 source:/home/pi/samba/music_player/src/read_meta.c
+	"read_meta.h"
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	"read_meta.h"
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+	<stdio.h>
+	"read_meta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+	"read_meta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+	"read_meta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1390084834 source:/home/pi/samba/music_player/src/qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1390497571 /home/pi/samba/music_player/inc/qdbmp.h
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+
+1391604826 source:/home/pi/samba/music_player/lcd/lcd.c
+	"lcd.h"
+	<fcntl.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<linux/input.h>
+	<termios.h>
+	"fonts.h"
+	"qdbmp.h"
+	"6x8_horizontal_LSB_1.h"
+	"8x14_horizontal_LSB_1.h"
+	"12x16_horizontal_LSB_1.h"
+	"16x26_horizontal_LSB_1.h"
+	"lcd.h"
+	<fcntl.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<linux/input.h>
+	<termios.h>
+	"fonts.h"
+	"qdbmp.h"
+	"6x8_horizontal_LSB_1.h"
+	"8x14_horizontal_LSB_1.h"
+	"12x16_horizontal_LSB_1.h"
+	"16x26_horizontal_LSB_1.h"
+	"lcd.h"
+	<fcntl.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<linux/input.h>
+	<termios.h>
+	"fonts.h"
+	"qdbmp.h"
+	"6x8_horizontal_LSB_1.h"
+	"8x14_horizontal_LSB_1.h"
+	"12x16_horizontal_LSB_1.h"
+	"16x26_horizontal_LSB_1.h"
+	"lcd.h"
+	<fcntl.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<linux/input.h>
+	<termios.h>
+	<string.h>
+	"fonts.h"
+	"qdbmp.h"
+	"6x8_horizontal_LSB_1.h"
+	"8x14_horizontal_LSB_1.h"
+	"12x16_horizontal_LSB_1.h"
+	"16x26_horizontal_LSB_1.h"
+
+1391333550 izontal_LSB_1.h"
+
+1391604044 /home/pi/samba/music_player/lcd/lcd.h
+
+1390498567 /home/pi/samba/music_player/lcd/fonts.h
+	"AsciiLib.h"
+	"AsciiLib.h"
+	"AsciiLib.h"
+
+1376905140 h"
+
+1375331572 /home/pi/samba/music_player/lcd/AsciiLib.h
+	<string.h>
+	<string.h>
+	<string.h>
+	<string.h>
+
+1390053642 /home/pi/samba/music_player/lcd/6x8_horizontal_LSB_1.h
+
+1390053645 /home/pi/samba/music_player/lcd/8x14_horizontal_LSB_1.h
+
+1390053641 /home/pi/samba/music_player/lcd/12x16_horizontal_LSB_1.h
+
+1390053639 /home/pi/samba/music_player/lcd/16x26_horizontal_LSB_1.h
+
+1391620462 source:\\raspberrypi\raspberry\music_player\main.cpp
+	<iostream>
+	<wiringPi.h>
+	"menue.h"
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd.h"
+
+1391604044 \\raspberrypi\raspberry\music_player\lcd\lcd.h
+
+1390084836 source:\\raspberrypi\raspberry\music_player\src\encoder.c
+	<wiringPi.h>
+	"encoder.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1390084834 source:\\raspberrypi\raspberry\music_player\src\qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1391617200 source:\\raspberrypi\raspberry\music_player\src\read_meta.c
+	"read_meta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1391604826 source:\\raspberrypi\raspberry\music_player\lcd\lcd.c
+	"lcd.h"
+	<fcntl.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<linux/input.h>
+	<termios.h>
+	<string.h>
+	"fonts.h"
+	"qdbmp.h"
+	"6x8_horizontal_LSB_1.h"
+	"8x14_horizontal_LSB_1.h"
+	"12x16_horizontal_LSB_1.h"
+	"16x26_horizontal_LSB_1.h"
+
+1390498567 \\raspberrypi\raspberry\music_player\lcd\fonts.h
+
+1375327972 \\raspberrypi\raspberry\music_player\lcd\asciilib.h
+	<string.h>
+
+1390053642 \\raspberrypi\raspberry\music_player\lcd\6x8_horizontal_lsb_1.h
+
+1390053645 \\raspberrypi\raspberry\music_player\lcd\8x14_horizontal_lsb_1.h
+
+1390053641 \\raspberrypi\raspberry\music_player\lcd\12x16_horizontal_lsb_1.h
+
+1390053639 \\raspberrypi\raspberry\music_player\lcd\16x26_horizontal_lsb_1.h
+
+1390084835 source:\\raspberrypi\raspberry\music_player\src\button.c
+	<wiringPi.h>
+	"button.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1390083659 source:z:\music_player\src\button.c
+	<wiringPi.h>
+	"button.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1390083677 source:z:\music_player\src\encoder.c
+	<wiringPi.h>
+	"encoder.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1175882380 source:z:\music_player\src\qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1390084595 source:z:\music_player\src\read_meta.c
+	"read_meta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1390097031 source:z:\music_player\main.cpp
+	<iostream>
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd.h"
+
+1391620345 source:/home/pi/samba/music_player/src/menue.cpp
+	"menue.h"
+
+1391620159 /home/pi/samba/music_player/inc/menue.h
+	<vector>
+	<iostream>
+	<string>
+	<algorithm>
+	"menue_item.h"
+	"lcd.h"
+
+1391618804 m.h"
+
+1391618827 /home/pi/samba/music_player/inc/menue_item.h
+	<string>
+	"lcd.h"
+
+1391333550 source:/home/pi/music_player/lcd/lcd.c
+	"lcd.h"
+	<fcntl.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<linux/input.h>
+	<termios.h>
+	<string.h>
+	"fonts.h"
+	"qdbmp.h"
+	"6x8_horizontal_LSB_1.h"
+	"8x14_horizontal_LSB_1.h"
+	"12x16_horizontal_LSB_1.h"
+	"16x26_horizontal_LSB_1.h"
+
+1391333264 /home/pi/music_player/lcd/lcd.h
+
+1390108782 /home/pi/music_player/lcd/fonts.h
+
+1377425801 /home/pi/music_player/lcd/6x8_horizontal_LSB_1.h
+
+1377423961 /home/pi/music_player/lcd/8x14_horizontal_LSB_1.h
+
+1377425817 /home/pi/music_player/lcd/12x16_horizontal_LSB_1.h
+
+1377422593 /home/pi/music_player/lcd/16x26_horizontal_LSB_1.h
+
+1390107040 source:/home/pi/music_player/src/menue.cpp
+	"menue.h"
+
+1390395804 source:/home/pi/music_player/src/menue_item.cpp
+	"menue_item.h"
+
+1175885980 source:/home/pi/music_player/src/qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1390213534 source:/home/pi/music_player/src/screen.cpp
+	"screen.h"
+
+1390497525 /home/pi/samba/music_player/inc/screen.h
+
+1390210962 source:/home/pi/music_player/src/screens.cpp
+	"screens.h"
+
+1390497643 /home/pi/samba/music_player/inc/screens.h
+
+1391618804 source:/home/pi/samba/music_player/src/menue_item.cpp
+	"menue_item.h"
+
+1390498543 source:/home/pi/samba/music_player/src/screen.cpp
+	"screen.h"
+
+1390498546 source:/home/pi/samba/music_player/src/screens.cpp
+	"screens.h"
+
+1390053644 \\raspberrypi\raspberry\music_player\lcd\qdbmp.h
+	<stdio.h>
+
+1391620345 source:\\raspberrypi\raspberry\music_player\src\menue.cpp
+	"menue.h"
+
+1391618804 source:\\raspberrypi\raspberry\music_player\src\menue_item.cpp
+	"menue_item.h"
+
+1390498543 source:\\raspberrypi\raspberry\music_player\src\screen.cpp
+	"screen.h"
+
+1390498546 source:\\raspberrypi\raspberry\music_player\src\screens.cpp
+	"screens.h"
+
+1392851408 source:/home/pi/samba/music_player/lcd/lcd.c
+	"lcd.h"
+
+1392851391 /home/pi/samba/music_player/lcd/lcd.h
+	<fcntl.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<linux/input.h>
+	<termios.h>
+	<string.h>
+	"fonts.h"
+	"qdbmp.h"
+	"6x8_horizontal_LSB_1.h"
+	"8x14_horizontal_LSB_1.h"
+	"12x16_horizontal_LSB_1.h"
+	"16x26_horizontal_LSB_1.h"
+
+1390498568 /home/pi/samba/music_player/lcd/fonts.h
+
+1390053644 /home/pi/samba/music_player/lcd/qdbmp.h
+	<stdio.h>
+
+1390053642 /home/pi/samba/music_player/lcd/6x8_horizontal_LSB_1.h
+
+1390053646 /home/pi/samba/music_player/lcd/8x14_horizontal_LSB_1.h
+
+1390053642 /home/pi/samba/music_player/lcd/12x16_horizontal_LSB_1.h
+
+1390053640 /home/pi/samba/music_player/lcd/16x26_horizontal_LSB_1.h
+
+1391714754 source:/home/pi/samba/music_player/src/button.c
+	<wiringPi.h>
+	"button.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1392243937 /home/pi/samba/music_player/inc/button.h
+	<string>
+	"lcd.h"
+	"images.h"
+
+1391714757 source:/home/pi/samba/music_player/src/encoder.c
+	<wiringPi.h>
+	"encoder.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1391714730 /home/pi/samba/music_player/inc/encoder.h
+
+1392456065 source:/home/pi/samba/music_player/src/menue.cpp
+	"menue.h"
+
+1392457148 /home/pi/samba/music_player/inc/menue.h
+	"gObject.h"
+
+1391624881 /home/pi/samba/music_player/inc/menue_item.h
+	<string>
+	"lcd.h"
+
+1391624946 source:/home/pi/samba/music_player/src/menue_item.cpp
+	"menue_item.h"
+
+1390084834 source:/home/pi/samba/music_player/src/qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1390497572 /home/pi/samba/music_player/inc/qdbmp.h
+	<stdio.h>
+
+1391624944 source:/home/pi/samba/music_player/src/read_meta.c
+	"read_meta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1392153862 /home/pi/samba/music_player/inc/read_meta.h
+
+1393504052 source:/home/pi/samba/music_player/src/screen.cpp
+	"screen.h"
+
+1393504540 /home/pi/samba/music_player/inc/screen.h
+	<time.h>
+	"event.h"
+
+1393504377 source:/home/pi/samba/music_player/src/screens.cpp
+	"screens.h"
+
+1393504644 /home/pi/samba/music_player/inc/screens.h
+	<vector>
+	"screen.h"
+	"event.h"
+
+1400870674 source:/home/pi/samba/music_player/main.cpp
+	<wiringPi.h>
+	"queue.h"
+	"button_io.h"
+	"encoder_io.h"
+	"screens.h"
+	"screen_main.h"
+	"musicDatabase.h"
+
+1391624747 source:/home/pi/samba/music_player_rb/lcd/lcd.c
+	"lcd.h"
+	<fcntl.h>
+	<linux/fb.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<linux/input.h>
+	<termios.h>
+	<string.h>
+	"fonts.h"
+	"qdbmp.h"
+	"6x8_horizontal_LSB_1.h"
+	"8x14_horizontal_LSB_1.h"
+	"12x16_horizontal_LSB_1.h"
+	"16x26_horizontal_LSB_1.h"
+
+1391624705 /home/pi/samba/music_player_rb/lcd/lcd.h
+
+1390498567 /home/pi/samba/music_player_rb/lcd/fonts.h
+
+1390053644 /home/pi/samba/music_player_rb/lcd/qdbmp.h
+	<stdio.h>
+
+1390053642 /home/pi/samba/music_player_rb/lcd/6x8_horizontal_LSB_1.h
+
+1390053645 /home/pi/samba/music_player_rb/lcd/8x14_horizontal_LSB_1.h
+
+1390053641 /home/pi/samba/music_player_rb/lcd/12x16_horizontal_LSB_1.h
+
+1390053639 /home/pi/samba/music_player_rb/lcd/16x26_horizontal_LSB_1.h
+
+1391624399 source:/home/pi/samba/music_player_rb/main.cpp
+	<iostream>
+	<wiringPi.h>
+	"menue.h"
+	"button.h"
+	"encoder.h"
+	"read_meta.h"
+	"lcd.h"
+
+1391620345 source:/home/pi/samba/music_player_rb/src/menue.cpp
+	"menue.h"
+
+1391618804 source:/home/pi/samba/music_player_rb/src/menue_item.cpp
+	"menue_item.h"
+
+1390084834 source:/home/pi/samba/music_player_rb/src/qdbmp.c
+	"qdbmp.h"
+	<stdlib.h>
+	<string.h>
+
+1391617200 source:/home/pi/samba/music_player_rb/src/read_meta.c
+	"read_meta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1390498543 source:/home/pi/samba/music_player_rb/src/screen.cpp
+	"screen.h"
+
+1390498546 source:/home/pi/samba/music_player_rb/src/screens.cpp
+	"screens.h"
+
+1391714760 source:/home/pi/samba/music_player/src/queue.c
+	"queue.h"
+
+1392142534 /home/pi/samba/music_player/inc/queue.h
+	<stdio.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<mqueue.h>
+	<time.h>
+	<errno.h>
+	<unistd.h>
+	"event.h"
+
+1392261571 /home/pi/samba/music_player/inc/item.h
+	<string>
+	"lcd.h"
+	"images.h"
+	"event.h"
+
+1392242323 source:/home/pi/samba/music_player/src/item.cpp
+	"item.h"
+
+1392141246 /home/pi/samba/music_player/inc/button_io.h
+
+1392141234 /home/pi/samba/music_player/inc/encoder_io.h
+
+1394827299 source:/home/pi/samba/music_player/src/button_io.c
+	<wiringPi.h>
+	"button_io.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1394827304 source:/home/pi/samba/music_player/src/encoder_io.c
+	<wiringPi.h>
+	"encoder_io.h"
+	<stdio.h>
+	<string.h>
+	<errno.h>
+
+1392454585 source:/home/pi/samba/music_player/src/item_menue.cpp
+	"item_menue.h"
+
+1392467476 /home/pi/samba/music_player/inc/item_menue.h
+	<vector>
+	<iostream>
+	<string>
+	<algorithm>
+	"item.h"
+	"images.h"
+	"lcd.h"
+	"event.h"
+	"gObject.h"
+	"menue.h"
+
+1392564792 source:/home/pi/samba/music_player/src/main_screen.cpp
+	"main_screen.h"
+
+1392567034 /home/pi/samba/music_player/inc/main_screen.h
+	<iostream>
+	"event.h"
+	"gObject.h"
+	"gItemMenue.h"
+	"gPanel.h"
+	"read_meta.h"
+
+1394826014 /home/pi/samba/music_player/inc/images.h
+	"qdbmp.h"
+	<string.h>
+
+1392174202 source:/home/pi/samba/music_player/src/button.cpp
+	"button.h"
+
+1392142536 /home/pi/samba/music_player/inc/event.h
+
+1392141300 source:/home/pi/samba/music_player/src/button_menue.cpp
+	"button_menue.h"
+
+1392243958 /home/pi/samba/music_player/inc/button_menue.h
+	<vector>
+	"button.h"
+
+1394825967 source:/home/pi/samba/music_player/src/images.c
+	"images.h"
+
+1394312269 /home/pi/samba/music_player/inc/gObject.h
+	"lcd.h"
+	"event.h"
+	<iostream>
+
+1394051303 source:/home/pi/samba/music_player/src/gObject.cpp
+	"gObject.h"
+
+1397320863 /home/pi/samba/music_player/inc/gItemMenue.h
+	<vector>
+	"gItem.h"
+	"gAnyMenue.h"
+
+1394312269 /home/pi/samba/music_player/inc/gItem.h
+	"gObject.h"
+	"gImageItem.h"
+	"gTextItem.h"
+
+1397380077 source:/home/pi/samba/music_player/src/gItem.cpp
+	"gItem.h"
+
+1397386831 source:/home/pi/samba/music_player/src/gItemMenue.cpp
+	"gItemMenue.h"
+
+1395247944 /home/pi/samba/music_player/inc/gPanel.h
+	<vector>
+	"event.h"
+	"gObject.h"
+
+1395252210 source:/home/pi/samba/music_player/src/gPanel.cpp
+	"gPanel.h"
+
+1392567757 source:/home/pi/samba/music_player/src/readMeta.c
+	"readMeta.h"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<string.h>
+
+1392567724 /home/pi/samba/music_player/inc/readMeta.h
+
+1392845136 source:/home/pi/samba/music_player/src/gAnyButton.cpp
+	"gAnyButton.h"
+
+1393430950 /home/pi/samba/music_player/inc/gAnyButton.h
+	"gObject.h"
+
+1394051898 source:/home/pi/samba/music_player/src/gImageButton.cpp
+	"gImageButton.h"
+
+1394012963 /home/pi/samba/music_player/inc/gImageButton.h
+	"lcd.h"
+	"images.h"
+	"gAnyButton.h"
+	<iostream>
+
+1393966006 /home/pi/samba/music_player/inc/gAnyMenue.h
+	"gObject.h"
+
+1394051954 source:/home/pi/samba/music_player/src/gTextButton.cpp
+	"gTextButton.h"
+
+1394012890 /home/pi/samba/music_player/inc/gTextButton.h
+	<string>
+	"gAnyButton.h"
+
+1393966007 source:/home/pi/samba/music_player/src/gAnyMenue.cpp
+	"gAnyMenue.h"
+
+1396784169 /home/pi/samba/music_player/inc/screen_main.h
+	<vector>
+	<iostream>
+	"event.h"
+	"gObject.h"
+	"gPanel.h"
+	"gItem.h"
+	"gImageButton.h"
+	"gTextButton.h"
+	"gTextItem.h"
+	"gItemMenue.h"
+	"screens.h"
+	"gButtonMenue.h"
+
+1397307433 source:/home/pi/samba/music_player/src/screen_main.cpp
+	"screen_main.h"
+
+1397387118 source:/home/pi/samba/music_player/src/gButtonMenue.cpp
+	"gButtonMenue.h"
+
+1397384674 /home/pi/samba/music_player/inc/gButtonMenue.h
+	<vector>
+	"gAnyMenue.h"
+	"gAnyButton.h"
+	"gImageButton.h"
+	"gTextButton.h"
+
+1394312270 /home/pi/samba/music_player/inc/gTextItem.h
+	<string>
+	<algorithm>
+	"lcd.h"
+	"event.h"
+	"gObject.h"
+
+1394306637 source:/home/pi/samba/music_player/src/gTextItem.cpp
+	"gTextItem.h"
+
+1394016430 source:/home/pi/samba/music_player/src/gImageItem.cpp
+	"gImageItem.h"
+
+1394012530 /home/pi/samba/music_player/inc/gImageItem.h
+	"gObject.h"
+	"images.h"
+
+1400868338 /home/pi/samba/music_player/inc/musicDatabase.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<taglib/fileref.h>
+	<taglib/tag.h>
+	<stdio.h>
+	<kompex/KompexSQLiteDatabase.h>
+	<kompex/KompexSQLiteStatement.h>
+	<kompex/KompexSQLiteException.h>
+
+1400865531 source:/home/pi/samba/music_player/src/musicDatabase.cpp
+	"musicDatabase.h"
+
