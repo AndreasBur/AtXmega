@@ -10,7 +10,7 @@
 
 /**************************************************************************************
 *
-*   \fn void button1_init()
+*   \fn void button_init()
 *
 *   \brief initialization of button1
 *

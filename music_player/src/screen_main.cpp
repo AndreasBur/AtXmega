@@ -1,6 +1,6 @@
 #include "screen_main.h"
 
-extern screens Screens;
+//extern screens Screens;
 gPanel* pPanel;
 gTextButton* pTextButton1;
 gImageButton* pImageButton1;
@@ -42,7 +42,7 @@ void init_Main() {
 
 
     pItemMenue = new gItemMenue(pPanel, 10, 10, 300, 220, FONT_EXTREME_BIG, "MAIN MENUE");
-    pItemMenue->addItem("PLAY MUSIC", IMAGE_MUSIC, 30, 24, 10, 10, COLOR_BLACK, NULL);
+    pItemMenue->addItem("PLAY MUSIC Andreas Burnickl", IMAGE_MUSIC, 30, 24, 10, 10, COLOR_BLACK, NULL);
     pItemMenue->addItem("SHOUTCAST", IMAGE_MUSIC, 30, 24, 10, 10, COLOR_BLACK, NULL);
     pItemMenue->addItem("MUSIC LIBRARY", IMAGE_MUSIC, 30, 24, 10, 10, COLOR_BLACK, NULL);
     pItemMenue->addItem("SETTINGS", IMAGE_MUSIC, 30, 24, 10, 10, COLOR_BLACK, NULL);
@@ -108,13 +108,13 @@ void init_Main() {
     //pPanel->addObject(pItem4);
     //pPanel->addObject(pItem5);
     //pPanel->addObject(pItem);
-    //pPanel->addObject(pItemMenue);
-    pPanel->addObject(pButtonMenue);
+    pPanel->addObject(pItemMenue);
+    //pPanel->addObject(pButtonMenue);
 
 }
 
 void draw_Main() {
-    LCD_Clear(COLOR_WHITE);
+    //LCD_Clear(COLOR_WHITE);
     pPanel->draw();
 }
 
@@ -127,6 +127,7 @@ void timeout_Main() {
     //pItem2->timeout();
     //pItem->timeout();
     pItemMenue->timeout();
+    //draw_Main();
 }
 
 void event_Main(event_t Event) {
@@ -134,7 +135,8 @@ void event_Main(event_t Event) {
         // SCREEN_GOTO
         LCD_Text(50, 50, "SCREEN GOTO", COLOR_BLACK, COLOR_NONE, FONT_BIG);
     } else {
-        pPanel->event(Event);
+        if(Event == EVENT_TIMEOUT) timeout_Main();
+        else pPanel->event(Event);
         draw_Main();
     }
 }

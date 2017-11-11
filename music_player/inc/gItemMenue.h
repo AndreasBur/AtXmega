@@ -62,7 +62,7 @@ class gItemMenue : public gAnyMenue
 
 		// gItemMenue methods control functions
         void scroll(int Offset);
-        void scrollTo(int position);
+        void scrollTo(int Position);
         void timeout();
         virtual void draw();
         virtual void event(event_t Event);

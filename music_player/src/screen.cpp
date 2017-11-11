@@ -26,6 +26,3 @@ screen::~screen()
 {
 
 }
-
-
-
