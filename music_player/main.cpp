@@ -38,9 +38,9 @@ using namespace std;
 int main(int argc, char *argv[])
 {
     //mq = queue_init();
+    //event_t Event;
     GLCD_Init(argc, argv);
     LCD_Clear(COLOR_WHITE);
-    //event_t Event;
 
     button_init(BUTTON1_PIN, &button1_event);
     button_init(BUTTON2_PIN, &button2_event);
